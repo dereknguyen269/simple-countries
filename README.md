@@ -1,4 +1,4 @@
-# Simple Contries
+# Simple Countries
 A list of all countries for Rails
 
 ## Installation
