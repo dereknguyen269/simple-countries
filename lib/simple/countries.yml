@@ -1,0 +1,724 @@
+---
+- :id: 1
+  :alias: AF
+  :name: Afghanistan
+- :id: 2
+  :alias: AL
+  :name: Albania
+- :id: 3
+  :alias: DZ
+  :name: Algeria
+- :id: 4
+  :alias: AS
+  :name: American Samoa
+- :id: 5
+  :alias: AD
+  :name: Andorra
+- :id: 6
+  :alias: AO
+  :name: Angola
+- :id: 7
+  :alias: AI
+  :name: Anguilla
+- :id: 8
+  :alias: AQ
+  :name: Antarctica
+- :id: 9
+  :alias: AG
+  :name: Antigua And Barbuda
+- :id: 10
+  :alias: AR
+  :name: Argentina
+- :id: 11
+  :alias: AM
+  :name: Armenia
+- :id: 12
+  :alias: AW
+  :name: Aruba
+- :id: 13
+  :alias: AU
+  :name: Australia
+- :id: 14
+  :alias: AT
+  :name: Austria
+- :id: 15
+  :alias: AZ
+  :name: Azerbaijan
+- :id: 16
+  :alias: BS
+  :name: Bahamas
+- :id: 17
+  :alias: BH
+  :name: Bahrain
+- :id: 18
+  :alias: BD
+  :name: Bangladesh
+- :id: 19
+  :alias: BB
+  :name: Barbados
+- :id: 20
+  :alias: BY
+  :name: Belarus
+- :id: 21
+  :alias: BE
+  :name: Belgium
+- :id: 22
+  :alias: BZ
+  :name: Belize
+- :id: 23
+  :alias: BJ
+  :name: Benin
+- :id: 24
+  :alias: BM
+  :name: Bermuda
+- :id: 25
+  :alias: BT
+  :name: Bhutan
+- :id: 26
+  :alias: BO
+  :name: Bolivia
+- :id: 27
+  :alias: BA
+  :name: Bosnia And Herzegovina
+- :id: 28
+  :alias: BW
+  :name: Botswana
+- :id: 29
+  :alias: BV
+  :name: Bouvet Island
+- :id: 30
+  :alias: BR
+  :name: Brazil
+- :id: 31
+  :alias: IO
+  :name: British Indian Ocean Territory
+- :id: 32
+  :alias: BN
+  :name: Brunei Darussalam
+- :id: 33
+  :alias: BG
+  :name: Bulgaria
+- :id: 34
+  :alias: BF
+  :name: Burkina Faso
+- :id: 35
+  :alias: BI
+  :name: Burundi
+- :id: 36
+  :alias: KH
+  :name: Cambodia
+- :id: 37
+  :alias: CM
+  :name: Cameroon
+- :id: 38
+  :alias: CA
+  :name: Canada
+- :id: 39
+  :alias: CV
+  :name: Cape Verde
+- :id: 40
+  :alias: KY
+  :name: Cayman Islands
+- :id: 41
+  :alias: CF
+  :name: Central African Republic
+- :id: 42
+  :alias: TD
+  :name: Chad
+- :id: 43
+  :alias: CL
+  :name: Chile
+- :id: 44
+  :alias: CN
+  :name: China
+- :id: 45
+  :alias: CX
+  :name: Christmas Island
+- :id: 46
+  :alias: CC
+  :name: Cocos (keeling) Islands
+- :id: 47
+  :alias: CO
+  :name: Colombia
+- :id: 48
+  :alias: KM
+  :name: Comoros
+- :id: 49
+  :alias: CG
+  :name: Congo
+- :id: 50
+  :alias: CD
+  :name: Congo, The Democratic Republic Of The
+- :id: 51
+  :alias: CK
+  :name: Cook Islands
+- :id: 52
+  :alias: CR
+  :name: Costa Rica
+- :id: 53
+  :alias: CI
+  :name: Cote D'ivoire
+- :id: 54
+  :alias: HR
+  :name: Croatia
+- :id: 55
+  :alias: CU
+  :name: Cuba
+- :id: 56
+  :alias: CY
+  :name: Cyprus
+- :id: 57
+  :alias: CZ
+  :name: Czech Republic
+- :id: 58
+  :alias: DK
+  :name: Denmark
+- :id: 59
+  :alias: DJ
+  :name: Djibouti
+- :id: 60
+  :alias: DM
+  :name: Dominica
+- :id: 61
+  :alias: DO
+  :name: Dominican Republic
+- :id: 62
+  :alias: TP
+  :name: East Timor
+- :id: 63
+  :alias: EC
+  :name: Ecuador
+- :id: 64
+  :alias: EG
+  :name: Egypt
+- :id: 65
+  :alias: SV
+  :name: El Salvador
+- :id: 66
+  :alias: GQ
+  :name: Equatorial Guinea
+- :id: 67
+  :alias: ER
+  :name: Eritrea
+- :id: 68
+  :alias: EE
+  :name: Estonia
+- :id: 69
+  :alias: ET
+  :name: Ethiopia
+- :id: 70
+  :alias: FK
+  :name: Falkland Islands (malvinas)
+- :id: 71
+  :alias: FO
+  :name: Faroe Islands
+- :id: 72
+  :alias: FJ
+  :name: Fiji
+- :id: 73
+  :alias: FI
+  :name: Finland
+- :id: 74
+  :alias: FR
+  :name: France
+- :id: 75
+  :alias: GF
+  :name: French Guiana
+- :id: 76
+  :alias: PF
+  :name: French Polynesia
+- :id: 77
+  :alias: TF
+  :name: French Southern Territories
+- :id: 78
+  :alias: GA
+  :name: Gabon
+- :id: 79
+  :alias: GM
+  :name: Gambia
+- :id: 80
+  :alias: GE
+  :name: Georgia
+- :id: 81
+  :alias: DE
+  :name: Germany
+- :id: 82
+  :alias: GH
+  :name: Ghana
+- :id: 83
+  :alias: GI
+  :name: Gibraltar
+- :id: 84
+  :alias: GR
+  :name: Greece
+- :id: 85
+  :alias: GL
+  :name: Greenland
+- :id: 86
+  :alias: GD
+  :name: Grenada
+- :id: 87
+  :alias: GP
+  :name: Guadeloupe
+- :id: 88
+  :alias: GU
+  :name: Guam
+- :id: 89
+  :alias: GT
+  :name: Guatemala
+- :id: 90
+  :alias: GN
+  :name: Guinea
+- :id: 91
+  :alias: GW
+  :name: Guinea-bissau
+- :id: 92
+  :alias: GY
+  :name: Guyana
+- :id: 93
+  :alias: HT
+  :name: Haiti
+- :id: 94
+  :alias: HM
+  :name: Heard Island And Mcdonald Islands
+- :id: 95
+  :alias: VA
+  :name: Holy See (vatican City State)
+- :id: 96
+  :alias: HN
+  :name: Honduras
+- :id: 97
+  :alias: HK
+  :name: Hong Kong
+- :id: 98
+  :alias: HU
+  :name: Hungary
+- :id: 99
+  :alias: IS
+  :name: Iceland
+- :id: 100
+  :alias: IN
+  :name: India
+- :id: 101
+  :alias: ID
+  :name: Indonesia
+- :id: 102
+  :alias: IR
+  :name: Iran, Islamic Republic Of
+- :id: 103
+  :alias: IQ
+  :name: Iraq
+- :id: 104
+  :alias: IE
+  :name: Ireland
+- :id: 105
+  :alias: IL
+  :name: Israel
+- :id: 106
+  :alias: IT
+  :name: Italy
+- :id: 107
+  :alias: JM
+  :name: Jamaica
+- :id: 108
+  :alias: JP
+  :name: Japan
+- :id: 109
+  :alias: JO
+  :name: Jordan
+- :id: 110
+  :alias: KZ
+  :name: Kazakstan
+- :id: 111
+  :alias: KE
+  :name: Kenya
+- :id: 112
+  :alias: KI
+  :name: Kiribati
+- :id: 113
+  :alias: KP
+  :name: Korea, Democratic People's Republic Of
+- :id: 114
+  :alias: KR
+  :name: Korea, Republic Of
+- :id: 115
+  :alias: KV
+  :name: Kosovo
+- :id: 116
+  :alias: KW
+  :name: Kuwait
+- :id: 117
+  :alias: KG
+  :name: Kyrgyzstan
+- :id: 118
+  :alias: LA
+  :name: Lao People's Democratic Republic
+- :id: 119
+  :alias: LV
+  :name: Latvia
+- :id: 120
+  :alias: LB
+  :name: Lebanon
+- :id: 121
+  :alias: LS
+  :name: Lesotho
+- :id: 122
+  :alias: LR
+  :name: Liberia
+- :id: 123
+  :alias: LY
+  :name: Libyan Arab Jamahiriya
+- :id: 124
+  :alias: LI
+  :name: Liechtenstein
+- :id: 125
+  :alias: LT
+  :name: Lithuania
+- :id: 126
+  :alias: LU
+  :name: Luxembourg
+- :id: 127
+  :alias: MO
+  :name: Macau
+- :id: 128
+  :alias: MK
+  :name: Macedonia, The Former Yugoslav Republic Of
+- :id: 129
+  :alias: MG
+  :name: Madagascar
+- :id: 130
+  :alias: MW
+  :name: Malawi
+- :id: 131
+  :alias: MY
+  :name: Malaysia
+- :id: 132
+  :alias: MV
+  :name: Maldives
+- :id: 133
+  :alias: ML
+  :name: Mali
+- :id: 134
+  :alias: MT
+  :name: Malta
+- :id: 135
+  :alias: MH
+  :name: Marshall Islands
+- :id: 136
+  :alias: MQ
+  :name: Martinique
+- :id: 137
+  :alias: MR
+  :name: Mauritania
+- :id: 138
+  :alias: MU
+  :name: Mauritius
+- :id: 139
+  :alias: YT
+  :name: Mayotte
+- :id: 140
+  :alias: MX
+  :name: Mexico
+- :id: 141
+  :alias: FM
+  :name: Micronesia, Federated States Of
+- :id: 142
+  :alias: MD
+  :name: Moldova, Republic Of
+- :id: 143
+  :alias: MC
+  :name: Monaco
+- :id: 144
+  :alias: MN
+  :name: Mongolia
+- :id: 145
+  :alias: MS
+  :name: Montserrat
+- :id: 146
+  :alias: ME
+  :name: Montenegro
+- :id: 147
+  :alias: MA
+  :name: Morocco
+- :id: 148
+  :alias: MZ
+  :name: Mozambique
+- :id: 149
+  :alias: MM
+  :name: Myanmar
+- :id: 150
+  :alias: NA
+  :name: Namibia
+- :id: 151
+  :alias: NR
+  :name: Nauru
+- :id: 152
+  :alias: NP
+  :name: Nepal
+- :id: 153
+  :alias: NL
+  :name: Netherlands
+- :id: 154
+  :alias: AN
+  :name: Netherlands Antilles
+- :id: 155
+  :alias: NC
+  :name: New Caledonia
+- :id: 156
+  :alias: NZ
+  :name: New Zealand
+- :id: 157
+  :alias: NI
+  :name: Nicaragua
+- :id: 158
+  :alias: NE
+  :name: Niger
+- :id: 159
+  :alias: NG
+  :name: Nigeria
+- :id: 160
+  :alias: NU
+  :name: Niue
+- :id: 161
+  :alias: NF
+  :name: Norfolk Island
+- :id: 162
+  :alias: MP
+  :name: Northern Mariana Islands
+- :id: 163
+  :alias: 'NO'
+  :name: Norway
+- :id: 164
+  :alias: OM
+  :name: Oman
+- :id: 165
+  :alias: PK
+  :name: Pakistan
+- :id: 166
+  :alias: PW
+  :name: Palau
+- :id: 167
+  :alias: PS
+  :name: Palestinian Territory, Occupied
+- :id: 168
+  :alias: PA
+  :name: Panama
+- :id: 169
+  :alias: PG
+  :name: Papua New Guinea
+- :id: 170
+  :alias: PY
+  :name: Paraguay
+- :id: 171
+  :alias: PE
+  :name: Peru
+- :id: 172
+  :alias: PH
+  :name: Philippines
+- :id: 173
+  :alias: PN
+  :name: Pitcairn
+- :id: 174
+  :alias: PL
+  :name: Poland
+- :id: 175
+  :alias: PT
+  :name: Portugal
+- :id: 176
+  :alias: PR
+  :name: Puerto Rico
+- :id: 177
+  :alias: QA
+  :name: Qatar
+- :id: 178
+  :alias: RE
+  :name: Reunion
+- :id: 179
+  :alias: RO
+  :name: Romania
+- :id: 180
+  :alias: RU
+  :name: Russian Federation
+- :id: 181
+  :alias: RW
+  :name: Rwanda
+- :id: 182
+  :alias: SH
+  :name: Saint Helena
+- :id: 183
+  :alias: KN
+  :name: Saint Kitts And Nevis
+- :id: 184
+  :alias: LC
+  :name: Saint Lucia
+- :id: 185
+  :alias: PM
+  :name: Saint Pierre And Miquelon
+- :id: 186
+  :alias: VC
+  :name: Saint Vincent And The Grenadines
+- :id: 187
+  :alias: WS
+  :name: Samoa
+- :id: 188
+  :alias: SM
+  :name: San Marino
+- :id: 189
+  :alias: ST
+  :name: Sao Tome And Principe
+- :id: 190
+  :alias: SA
+  :name: Saudi Arabia
+- :id: 191
+  :alias: SN
+  :name: Senegal
+- :id: 192
+  :alias: RS
+  :name: Serbia
+- :id: 193
+  :alias: SC
+  :name: Seychelles
+- :id: 194
+  :alias: SL
+  :name: Sierra Leone
+- :id: 195
+  :alias: SG
+  :name: Singapore
+- :id: 196
+  :alias: SK
+  :name: Slovakia
+- :id: 197
+  :alias: SI
+  :name: Slovenia
+- :id: 198
+  :alias: SB
+  :name: Solomon Islands
+- :id: 199
+  :alias: SO
+  :name: Somalia
+- :id: 200
+  :alias: ZA
+  :name: South Africa
+- :id: 201
+  :alias: GS
+  :name: South Georgia And The South Sandwich Islands
+- :id: 202
+  :alias: ES
+  :name: Spain
+- :id: 203
+  :alias: LK
+  :name: Sri Lanka
+- :id: 204
+  :alias: SD
+  :name: Sudan
+- :id: 205
+  :alias: SR
+  :name: Suriname
+- :id: 206
+  :alias: SJ
+  :name: Svalbard And Jan Mayen
+- :id: 207
+  :alias: SZ
+  :name: Swaziland
+- :id: 208
+  :alias: SE
+  :name: Sweden
+- :id: 209
+  :alias: CH
+  :name: Switzerland
+- :id: 210
+  :alias: SY
+  :name: Syrian Arab Republic
+- :id: 211
+  :alias: TW
+  :name: Taiwan, Province Of China
+- :id: 212
+  :alias: TJ
+  :name: Tajikistan
+- :id: 213
+  :alias: TZ
+  :name: Tanzania, United Republic Of
+- :id: 214
+  :alias: TH
+  :name: Thailand
+- :id: 215
+  :alias: TG
+  :name: Togo
+- :id: 216
+  :alias: TK
+  :name: Tokelau
+- :id: 217
+  :alias: TO
+  :name: Tonga
+- :id: 218
+  :alias: TT
+  :name: Trinidad And Tobago
+- :id: 219
+  :alias: TN
+  :name: Tunisia
+- :id: 220
+  :alias: TR
+  :name: Turkey
+- :id: 221
+  :alias: TM
+  :name: Turkmenistan
+- :id: 222
+  :alias: TC
+  :name: Turks And Caicos Islands
+- :id: 223
+  :alias: TV
+  :name: Tuvalu
+- :id: 224
+  :alias: UG
+  :name: Uganda
+- :id: 225
+  :alias: UA
+  :name: Ukraine
+- :id: 226
+  :alias: AE
+  :name: United Arab Emirates
+- :id: 227
+  :alias: GB
+  :name: United Kingdom
+- :id: 228
+  :alias: US
+  :name: United States
+- :id: 229
+  :alias: UM
+  :name: United States Minor Outlying Islands
+- :id: 230
+  :alias: UY
+  :name: Uruguay
+- :id: 231
+  :alias: UZ
+  :name: Uzbekistan
+- :id: 232
+  :alias: VU
+  :name: Vanuatu
+- :id: 233
+  :alias: VE
+  :name: Venezuela
+- :id: 234
+  :alias: VN
+  :name: Viet Nam
+- :id: 235
+  :alias: VG
+  :name: Virgin Islands, British
+- :id: 236
+  :alias: VI
+  :name: Virgin Islands, U.s.
+- :id: 237
+  :alias: WF
+  :name: Wallis And Futuna
+- :id: 238
+  :alias: EH
+  :name: Western Sahara
+- :id: 239
+  :alias: YE
+  :name: Yemen
+- :id: 240
+  :alias: ZM
+  :name: Zambia
+- :id: 241
+  :alias: ZW
+  :name: Zimbabwe
