@@ -19,16 +19,19 @@ Or install it yourself as:
 
 ## Usage
 Simple Method :
+You can use `` Simple::Countries `` or `` Countries ``
 
 - Get All
 
     ```ruby
         Simple::Countries.all
+        Countries.all
     ```
 - Find
 
     ```ruby
         Simple::Countries.find(2)
+        Countries.find(2)
     ```
     return `` {:id=>2, :alias=>"AL", :name=>"Albania"} ``
 
@@ -36,6 +39,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.first
+        Countries.first
     ```
     return `` {:id=>1, :alias=>"AF", :name=>"Afghanistan"} ``
 
@@ -43,6 +47,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.last
+        Countries.last
     ```
     return `` {:id=>241, :alias=>"ZW", :name=>"Zimbabwe"} ``
 
@@ -50,6 +55,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.find_by_alias('AF')
+        Countries.find_by_alias('AF')
     ```
     return `` Afghanistan ``
 
@@ -57,6 +63,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.search('A')
+        Countries.search('A')
     ```
     return a array :
     ```ruby
@@ -67,6 +74,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.search_by_key('A')
+        Countries.search_by_key('A')
     ```
     return a array :
 
@@ -78,11 +86,13 @@ Simple Method :
 
     ```ruby
         Simple::Countries.has_key?('wf')
+        Countries.has_key?('wf')
     ```
     return `` false ``
 
     ```ruby
         Simple::Countries.has_key?('WF')
+        Countries.has_key?('WF')
     ```
     return `` true ``
 
@@ -90,6 +100,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.alias
+        Countries.alias
     ```
     return array of alias
 
@@ -101,6 +112,7 @@ Simple Method :
 
     ```ruby
         Simple::Countries.name
+        Countries.name
     ```
     return a array of name
 
