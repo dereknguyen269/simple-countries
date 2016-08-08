@@ -25,7 +25,7 @@ Simple Method :
     ```ruby
         Simple::Countries.all
     ```
-- Find by id
+- Find
 
     ```ruby
         Simple::Countries.find(1)
