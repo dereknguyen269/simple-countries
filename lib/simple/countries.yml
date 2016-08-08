@@ -1,4 +1,7 @@
 ---
+- :id: 0
+  :alias:
+  :name:
 - :id: 1
   :alias: AF
   :name: Afghanistan
