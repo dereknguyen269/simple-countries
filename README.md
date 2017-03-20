@@ -179,8 +179,10 @@ You can use `` Simple::Countries `` or `` Countries ``
 ## Checkout on Rubygems.org
     https://rubygems.org/gems/simple-countries
 
+## Maintainers
+    [x] Libra- (https://github.com/minhquan4080)
+
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-## Thanks

@@ -1,6 +1,6 @@
 require "simple/countries/version"
 require 'yaml'
-require 'city-state'
+require_relative './cs'
 
 module Simple
   module Countries
@@ -15,7 +15,7 @@ module Simple
 
     def self.first
       @countries = YAML.load_file(File.join(__dir__, 'countries.yml'))
-      @countries.first
+      @countries[1]
     end
 
     def self.last
@@ -1513,7 +1513,7 @@ class Countries
 
     def self.first
       @countries = YAML.load_file(File.join(__dir__, 'countries.yml'))
-      @countries.first
+      @countries[1]
     end
 
     def self.last

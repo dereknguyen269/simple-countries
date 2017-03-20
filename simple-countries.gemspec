@@ -6,11 +6,11 @@ require 'simple/countries/version'
 Gem::Specification.new do |spec|
   spec.name          = "simple-countries"
   spec.version       = Simple::Countries::VERSION
-  spec.authors       = ["Quan Nguyen"]
+  spec.authors       = ["Libra-"]
   spec.email         = ["quanmn.libra@gmail.com"]
 
-  spec.summary       = ""
-  spec.description   = ""
+  spec.summary       = "Simple Countries"
+  spec.description   = "This gem is simple get countries, city or states"
   spec.homepage      = ""
   spec.license       = "MIT"
 
